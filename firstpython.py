@@ -1,0 +1,2 @@
+# Output
+print("Hello World")
